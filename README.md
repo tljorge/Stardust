@@ -1,2 +1,2 @@
 # Stardust
-Asteroid shooter game designed for Android
+Asteroid shooter game designed for Android.
